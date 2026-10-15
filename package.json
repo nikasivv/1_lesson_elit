@@ -1,0 +1,27 @@
+{
+  "name": "1_lesson_elit",
+  "version": "1.0.0",
+  "description": "Учебный трекер задач на TypeScript",
+  "main": "dist/main.js",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikasivv/1_lesson_elit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikasivv/1_lesson_elit/issues"
+  },
+  "homepage": "https://github.com/nikasivv/1_lesson_elit#readme",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.0.0"
+  }
+}
